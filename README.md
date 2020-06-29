@@ -1,4 +1,4 @@
-#Tindog
+Tindog
 
 This is a website for the “Tindog” app, a Tinder app for dogs.
 
