@@ -8,4 +8,4 @@ This is one of the website I made while completing an online web development cou
 ![screenshot](https://i.imgur.com/Om0EN6R.png)
 ![screenshot](https://i.imgur.com/WhOE5XQ.png)
 ![screenshot](https://i.imgur.com/tB5XsPP.png)
-![screenshot]https://i.imgur.com/a7wFriK.png)
+![screenshot](https://i.imgur.com/SdJHFQ5.png)
